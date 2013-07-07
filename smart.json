@@ -3,7 +3,7 @@
     "description": "Ensures that PhantomJS is automatically installed",
     "homepage": "https://github.com/gadicohen/meteor-phantomjs",
     "author": "Gadi Cohen <dragon@wastelands.net>",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "git": "https://github.com/gadicohen/meteor-phantomjs.git",
 	"packages": {}
 }
